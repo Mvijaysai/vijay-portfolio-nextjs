@@ -82,7 +82,7 @@ function Landing() {
                 </div>
                 <Image
                     src={headerData.image}
-                    alt=''
+                    alt='vijaypic'
                     width={350}
                     height={350}
                     className={styles.landingImg}
